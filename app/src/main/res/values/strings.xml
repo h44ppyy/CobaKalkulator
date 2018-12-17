@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CobaKalkulator</string>
+    <string name="labelJumlahkan" value="Jumlahkan">Jumlahkan</string>
+
+    <string name="buttonHandler" value="buttonHandler">Button Handler</string>
+
+    <string name="labelProses" value="Proses">Proses</string>
+    <string name="_0">0</string>
+
+    <string-array name="prosesList">
+
+        <item value="Penjumlahan">Penjumlahan</item>
+
+        <item value="Pengurangan">Pengurangan</item>
+
+        <item value="Perkalian">Perkalian</item>
+
+        <item value="Pembagian">Pembagian</item>
+
+    </string-array>
+</resources>
